@@ -1,0 +1,69 @@
+.container { width: 950px; border: 1pt solid windowtext; margin-left: 5px; margin-right: 5px; }
+.formHeader { width: 100%; padding-top: 2px; padding-left: 5px; }
+.formTitle { color: #000; font-family: Arial, sans-serif; font-size: 14pt; font-style: normal; font-weight: 600; margin-Right: 250px; }
+.attachmentLbl { color: #000; font-family: Arial, sans-serif; font-size: 12pt; font-style: normal; font-weight: 600; }
+
+.longtextarea { font-family: Arial, sans-serif; font-size: 9pt; resize: none; overflow:hidden; word-wrap:break-word; break-word:break-all;height:20px;}
+
+table{ width: 100%; border-spacing: 0; border: 0; cellspacing: 0; cellpadding: 0; border-collapse: collapse; }
+.allbdrCenBot { border: 1pt solid windowtext; color: #000; font-family: Arial, sans-serif; font-size: 10pt; font-style: normal; font-weight: 400; text-align: center; vertical-align: bottom; }
+.allbdrCenTop { border: 1pt solid windowtext; color: #000; font-family: Arial, sans-serif; font-size: 10pt; font-style: normal; font-weight: 400; text-align: center; vertical-align: top; }
+.allbdrCenMid { border: 1pt solid windowtext; color: #000; font-family: Arial, sans-serif; font-size: 10pt; font-style: normal; font-weight: 400; text-align: center; vertical-align: middle; }
+.allbdrLtMid { border: 1pt solid windowtext; color: #000; font-family: Arial, sans-serif; font-size: 10pt; font-style: normal; font-weight: 400; text-align: left; vertical-align: middle; }
+.allbdrRtMid { border: 1pt solid windowtext; color: #000; font-family: Arial, sans-serif; font-size: 10pt; font-style: normal; font-weight: 400; text-align: right; vertical-align: middle; }
+.allbdrLtTop { border: 1pt solid windowtext; color: #000; font-family: Arial, sans-serif; font-size: 10pt; font-style: normal; font-weight: 400; text-align: left; vertical-align: top; }
+.nobdrRtMid { color: #000; font-family: Arial, sans-serif; font-size: 10pt; font-style: normal; font-weight: 400; text-align: right; vertical-align: middle; }
+.nobdrLtMid { color: #000; font-family: Arial, sans-serif; font-size: 10pt; font-style: normal; font-weight: 400; text-align: left; vertical-align: middle; }
+.nobdrLtMidBld { color: windowtext; font-family: Arial, sans-serif; font-size: 10pt; font-style: normal; font-weight: 700; text-align: left; }
+.nobdrCenTop { color: #000; font-family: Arial, sans-serif; font-size: 10pt; font-style: normal; font-weight: 400; text-align: center; vertical-align: top; }
+.nobdrCenMid { color: #000; font-family: Arial, sans-serif; font-size: 10pt; font-style: normal; font-weight: 400; text-align: center; vertical-align: middle; }
+.nobdrCenBot { color: #000; font-family: Arial, sans-serif; font-size: 10pt; font-style: normal; font-weight: 400; text-align: center; vertical-align: bottom; }
+.nobdrLtTop { color: #000; font-family: Arial, sans-serif; font-size: 10pt; font-style: normal; font-weight: 400; text-align: left; vertical-align: top; }
+.nobdrLtTopBld { color: windowtext; font-family: Arial, sans-serif; font-size: 12pt; font-style: normal; font-weight: 700; vertical-align: top; }
+.enterdata { text-align: left; word-wrap: break-word; font-family: Arial, sans-serif; font-size: 10pt; vertical-align: top; width: 99%; }
+.readonly { vertical-align: top; background-color: #E8E6E6; word-wrap: break-word; font-family: Arial, sans-serif; font-size: 10.00pt; }
+.signatureData { padding-left: 50px; padding-bottom: 10px; text-align: center; width: 90%; }
+.signatureTable { border-width: 0; border-top: 1px solid #000000; border-right: 1px solid #000000; }
+.signatureTable thead { height: 10px; }
+.signatureTable thead th { font: 10pt Arial; background-color: #EAEAEA; padding-left: 5px; border-left: 1px solid #000000; border-bottom: 1px solid #000000; text-align: left; } .signatureName { width: 45%; }
+.signatureDate { width: 20%; }
+.signatureStatus { width: 35%; }
+.signatureTable tbody td { border-left: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; }
+.signatureField { font: 9pt Arial; color: #0000FF; overflow: hidden; border: 0; width: 97%; resize: none; }
+.sigmeaning { font-family: Arial, sans-serif; font-size: 12px; font-weight: bold; text-align: left; width:100%; }
+.sectionHeading { font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #000000; font-weight: bold; margin-left: 0; border-bottom: solid 2px #D9D9D9; height: .2in; padding: 5px 10px 0 0; width: 94%; }
+.space { width: 20%; }
+.subSection { margin: 5px; color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 10px; }
+.TopLabel { font-family: Arial, Helvetica, sans-serif; font-size: 10px; color: #000000; text-align: left; vertical-align: bottom; }
+.leftField .subLabel { padding-left: 3px; width: 18%; text-align: right; float: left; padding-right: 3px; font-family: Arial, Helvetica, sans-serif; font-size: 10px; color: #000000; }
+.clearBoth { clear: both;width:950px; }
+input, input[type="password"], input[type="search"], isindex, textarea { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
+.toolbarBluebtn { background-color: #0066FF; -moz-border-radius: 4px; -webkit-border-radius: 4px; border-radius: 4px; border: 1px solid #000000; color: #ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 10px; font-weight: 700; padding: 0 14px; height: 16px; text-align: center; vertical-align: middle; }
+.formBtn { background-color: #47D147; -moz-border-radius: 4px; -webkit-border-radius: 4px; border-radius: 4px; border: 1px solid #ffffff; color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: 700; padding: 0 14px; height: 22px; text-align: center; vertical-align: middle; }
+.viewBtn { background-color: #FF99FF; -moz-border-radius: 4px; -webkit-border-radius: 4px; border-radius: 4px; border: 1px solid #ffffff; color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: 700; padding: 0 14px; height: 22px; text-align: center; vertical-align: middle; }
+.textfield { height: 18px; color: #000000; font-family: Arial, sans-serif; font-size: 10pt; font-style: normal; font-weight: 400; text-align: left; vertical-align: middle; }
+.listfield { border:1px solid #A5C0dF; font-family: Arial, Helvetica, sans-serif; padding: 2px; font-size : 11px; color : #146; margin-bottom:1px; width: 100%; height: 20px; }
+.taskHeading { font-family: Arial, Helvetica, sans-serif; font-size: 12px; text-align:left; color: #000000; font-weight: bold; margin-left: 0; border-top: solid 2px #00538A; height: .2in; padding: 5px 10px 0 0; width: 94%; }
+.DateField_AI
+{
+	border:1px solid #A5C0dF;
+	font-family: Arial, Helvetica, sans-serif;
+	padding: 2px;
+	font-size : 11px;
+	color : #146;
+	margin-bottom:1;
+	width: 80%;
+}
+.rLabel{ font-family: Arial, Helvetica, sans-serif; font-size : 11px; color: #000000; text-align: right; vertical-align: middle; padding-right:5px;}
+.dropdownfield { border:1px solid #A5C0dF; font-family: Arial, Helvetica, sans-serif; padding: 2px; font-size : 11px; color : #146; margin-bottom:1px; width: 100%; }
+.checkboxfield{ font: 9pt monospace; color: #000000; }
+.floatLeft { float:left; }
+.DateField_AI { border:1px solid #A5C0dF; font-family: Arial, Helvetica, sans-serif; padding: 2px; font-size : 11px; color : #146; margin-bottom:1px; width: 80%; }
+.dynamicLabel { border:0; font-family: Arial, Helvetica, sans-serif; font-size : 11px; color : #000000; text-align: right; vertical-align: middle; padding-right:0; }
+.dynamicRequiredLabel { border:0; font-family: Arial, Helvetica, sans-serif; font-size : 11px; color : #FF0000; text-align: right; vertical-align: middle; padding-right:0; }
+.LButton{ font: 11px Arial;background-color:#0066FF;color: #ffffff;}
+.IButton{ font: 11px Arial;background-color:#D1D1E0; }
+.accordionButton { font-family: Arial, Helvetica, sans-serif; font-size: 11pt; color: #000; vertical-align: middle; width: 100%; padding-top: 2px; font-weight: 600; height: 20px; font-style: normal; float: none; /* Float works in all browsers but IE6 */ text-align: center; background-color: #E6E6E6; border-top: 1px solid #9e9e9f; border-bottom: 1px solid #9e9e9f; cursor: pointer; }
+.accordionContent { width: 99%; float: none; text-align: center; margin-left: 5px; }
+.on { color: #070469; background-color: #FFB547; border-top: 1px solid #9e9e9f; border-bottom: 1px solid #9e9e9f; }
+.over { background: #CCCCCF; }
